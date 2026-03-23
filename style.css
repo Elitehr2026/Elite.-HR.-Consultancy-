@@ -1,0 +1,4 @@
+CSS
+body { background-color: aqua; margin: 0;} 
+footer { background-color: white; color: black; position: relative; line-height: 1.5; text-align: center; margin-top: 100px; width: 100%; padding: 15px 0; font-size: large;} 
+p {text-align: justify; text-justify: inter-word; margin: 0 0 10px 0;}
